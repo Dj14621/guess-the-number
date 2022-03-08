@@ -15,10 +15,12 @@ public class Main {
     //Putting methods here
     public static void startGame(){
         System.out.println("Welcome...");
+
             //Game Logic
+
     }
 
-// getting user name
+    // getting user name
     public static String getUserName() {
         System.out.println("Please enter your name: ");
         String name = scanner.next();
